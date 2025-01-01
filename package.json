@@ -51,7 +51,7 @@
     "purgecss": "^7.0.2",
     "sass": "^1.83.0",
     "solid-js": "^1.9.3",
-    "valibot": "^0.37.0"
+    "valibot": "^0.42.1"
   },
   "browserslist": [
     "> 0.2%",
