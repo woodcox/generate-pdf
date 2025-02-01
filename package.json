@@ -49,7 +49,7 @@
     "lightningcss-cli": "^1.28.2",
     "mvp.css": "^1.17.0",
     "purgecss": "^7.0.2",
-    "sass": "^1.83.0",
+    "sass": "^1.83.4",
     "solid-js": "^1.9.3",
     "valibot": "^0.37.0"
   },
